@@ -1,0 +1,5 @@
+rootProject.name = 'SpringGrpcExample'
+include 'age-proto'
+include 'age-server'
+include 'age-client'
+
